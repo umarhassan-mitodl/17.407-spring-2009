@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Society",
+      "Asian Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "legacy_uid": "1ad42732-85c0-2331-1d77-75b4002c54fd",
+  "instructors": {
+    "content": [
+      "fcc95998-e4af-7081-5b80-258d7ea4878e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0bf38b8b-ed07-e05a-af4a-22aaa5696ee9",
+    "website": "17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009"
+  },
+  "course_title": "Chinese Foreign Policy: International Relations and Strategy",
+  "course_description": "China's rise as a great power raises important questions about how that power might be used in its relations with other states. Nowhere are such questions more salient than in the future trajectory of China's conflict behavior, including its approach to deterrence, crisis management and the use of force. To explore these important questions in China's international relations, this seminar examines the evolution of Chinese strategic thought, in primary sources as well as its reflection in the interactions among Chinese states and between China and other states.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "17.408",
+  "primary_course_number": "17.407",
+  "course_image_thumbnail": {
+    "content": "91b57f6c-0e0f-d1a2-ec7d-55d128133d5e",
+    "website": "17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009"
+  },
+  "learning_resource_types": [],
+  "site_uid": "1736edb8-3228-4017-b803-e660ac049aae",
+  "site_short_id": "17.407-spring-2009",
+  "site_url_path": "courses/17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009",
+  "title": "Course Metadata"
+}
